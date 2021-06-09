@@ -3,11 +3,11 @@
 The following shells will be supported:
 
 - `bash`
-  - ![bash shell](resources/media/bash.mov)
+  - ![bash shell](/resources/media/bash.mov)
 - `zsh`
-  - ![zsh stock shell](resources/media/zsh-stock.mov)
-- [`zsh` with `oh-my-zsh`](https://ohmyz.sh)
-  - ![zsh custom shell](resources/media/zsh-custom.mov)
+  - ![zsh stock shell](/resources/media/zsh-stock.mov)
+- `zsh` with [`oh-my-zsh`](https://ohmyz.sh)
+  - ![zsh custom shell](/resources/media/zsh-custom.mov)
 
 In order to have a simplified developing experience, it is recommended to use `zsh` and `oh-my-zsh`.
 
